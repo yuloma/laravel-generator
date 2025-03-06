@@ -22,19 +22,19 @@
         "email": "me@mitul.me"
     }],
     "require": {
-        "php": "^8.1.0",
-        "illuminate/support": "^10.0",
-        "illuminate/console": "^10.0",
-        "laracasts/flash": "^3.2.2",
-        "laravelcollective/html": "^6.4",
-        "symfony/var-exporter": "^6.2.5"
+        "php": "^8.2",
+        "illuminate/support": "^12.0",
+        "illuminate/console": "^12.0",
+        "laracasts/flash": "^3.2.4",
+        "spatie/laravel-html": "^3.11.3",
+        "symfony/var-exporter": "^7.2.4"
     },
     "require-dev": {
-        "phpunit/phpunit": "^10.0.7",
-        "mockery/mockery": "^1.5.1",
-        "orchestra/testbench": "^8.0.0",
-        "pestphp/pest": "2.x-dev",
-        "pestphp/pest-plugin-laravel": "2.x-dev"
+        "phpunit/phpunit": "^11.5.3",
+        "mockery/mockery": "^1.6",
+        "orchestra/testbench": "^10.1.0",
+        "pestphp/pest": "^3.7.4",
+        "pestphp/pest-plugin-laravel": "³.1.0"
     },
     "autoload": {
         "psr-4": {
